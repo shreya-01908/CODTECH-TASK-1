@@ -25,4 +25,4 @@ To develop a tool to assess the strength of passwords entered by users. Algorith
 ### Technologies used: 
 - **C Programming**
 - **VSS Code**
-- 
+
